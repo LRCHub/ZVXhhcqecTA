@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "眩しいDNAだけ",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-17T13:12:35.936655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_眩しいDNAだけ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/02_眩しいDNAだけ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_眩しいDNAだけ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_眩しいDNAだけ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_眩しいDNAだけ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_眩しいDNAだけ_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ - Mabushii DNA Dake",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_眩しいDNAだけ_-_Mabushii_DNA_Dake_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ (如此耀眼的DNA)",
+      "artist": "ずっと真夜中でいいのに。 (永远是深夜有多好｡)",
+      "has_synced": true,
+      "path": "select/08_眩しいDNAだけ_(如此耀眼的DNA)_ずっと真夜中でいいのに。_(永远是深夜有多好。).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/09_眩しいDNAだけ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_眩しいDNAだけ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『眩しいDNAだけ』MV",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_ずっと真夜中でいいのに。『眩しいDNAだけ』MV_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/12_眩しいDNAだけ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/13_眩しいDNAだけ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/14_眩しいDNAだけ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "眩しいdnaだけ (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/15_眩しいdnaだけ_(Instrumental)_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/16_眩しいDNAだけ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/17_眩しいDNAだけ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/18_眩しいDNAだけ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_眩しいDNAだけ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_眩しいDNAだけ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_眩しいDNAだけ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_眩しいDNAだけ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_05_眩しいDNAだけ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_06_眩しいDNAだけ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_07_眩しいDNAだけ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_08_眩しいDNAだけ_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
